@@ -1,0 +1,7 @@
+User-Agent: *
+
+Disallow:
+
+
+Sitemap: http://surviveinthejungle.xyz/sitemap.xml
+Host: surviveinthejungle.xyz
