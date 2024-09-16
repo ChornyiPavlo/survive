@@ -3,5 +3,5 @@ User-Agent: *
 Disallow:
 
 
-Sitemap: http://surviveinthejungle.xyz/sitemap.xml
-Host: surviveinthejungle.xyz
+Sitemap: http://mostbet.surviveinthejungle.xyz/sitemap.xml
+Host: mostbet.surviveinthejungle.xyz
